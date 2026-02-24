@@ -24,7 +24,9 @@
       "WebFetch(domain:addyosmani.com)",
       "Bash(head:*)",
       "Bash(xxd:*)",
-      "Bash(cd:*)"
+      "Bash(cd:*)",
+      "Bash(git rm:*)",
+      "Bash(git add:*)"
     ]
   }
 }
