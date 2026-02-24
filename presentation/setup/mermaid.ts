@@ -1,0 +1,68 @@
+import { defineMermaidSetup } from '@slidev/types'
+
+export default defineMermaidSetup(() => ({
+  theme: 'base',
+  themeVariables: {
+    // Core
+    primaryColor: '#E8F5C8',
+    primaryTextColor: '#000000',
+    primaryBorderColor: '#A8C840',
+    secondaryColor: '#F1F5F9',
+    secondaryTextColor: '#000000',
+    secondaryBorderColor: '#E2E8F0',
+    tertiaryColor: '#F0F7E0',
+    tertiaryTextColor: '#000000',
+    tertiaryBorderColor: '#A8C840',
+    lineColor: '#CBD5E1',
+    textColor: '#000000',
+
+    // Override ALL 12 cScale slots — green palette
+    cScale0: '#A8C840',
+    cScale1: '#B8D460',
+    cScale2: '#C6E94E',
+    cScale3: '#D8F080',
+    cScale4: '#A8C840',
+    cScale5: '#B8D460',
+    cScale6: '#C6E94E',
+    cScale7: '#D8F080',
+    cScale8: '#A8C840',
+    cScale9: '#B8D460',
+    cScale10: '#C6E94E',
+    cScale11: '#D8F080',
+    cScaleLabel0: '#000000',
+    cScaleLabel1: '#000000',
+    cScaleLabel2: '#000000',
+    cScaleLabel3: '#000000',
+    cScaleLabel4: '#000000',
+    cScaleLabel5: '#000000',
+    cScaleLabel6: '#000000',
+    cScaleLabel7: '#000000',
+    cScaleLabel8: '#000000',
+    cScaleLabel9: '#000000',
+    cScaleLabel10: '#000000',
+    cScaleLabel11: '#000000',
+    cScalePeer0: '#8FB030',
+    cScalePeer1: '#A8C840',
+    cScalePeer2: '#B8D460',
+    cScalePeer3: '#C6E94E',
+    cScalePeer4: '#8FB030',
+    cScalePeer5: '#A8C840',
+    cScalePeer6: '#B8D460',
+    cScalePeer7: '#C6E94E',
+    cScalePeer8: '#8FB030',
+    cScalePeer9: '#A8C840',
+    cScalePeer10: '#B8D460',
+    cScalePeer11: '#C6E94E',
+
+    // Flowchart / graph
+    nodeBorder: '#A8C840',
+    nodeTextColor: '#000000',
+    mainBkg: '#E8F5C8',
+    clusterBkg: '#F0F7E0',
+    clusterBorder: '#A8C840',
+    edgeLabelBackground: '#ffffff',
+
+    // Font
+    fontFamily: 'Plus Jakarta Sans, ui-sans-serif, system-ui, sans-serif',
+  },
+}))

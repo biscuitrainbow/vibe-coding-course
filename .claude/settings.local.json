@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(file:*)",
+      "WebFetch(domain:sli.dev)",
+      "Bash(python3:*)",
+      "Bash(npm install:*)",
+      "Bash(lsof:*)",
+      "Bash(xargs kill:*)",
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:lumberjack.so)",
+      "WebFetch(domain:stackoverflow.blog)",
+      "WebFetch(domain:www.glideapps.com)",
+      "WebFetch(domain:cset.georgetown.edu)",
+      "WebFetch(domain:aimconsulting.com)",
+      "WebFetch(domain:www.kaspersky.com)",
+      "WebFetch(domain:blog.logrocket.com)",
+      "WebFetch(domain:www.cio.com)",
+      "WebFetch(domain:thenewstack.io)",
+      "WebFetch(domain:hbr.org)",
+      "WebFetch(domain:securityboulevard.com)",
+      "WebFetch(domain:blog.robbowley.net)",
+      "WebFetch(domain:addyosmani.com)",
+      "Bash(head:*)",
+      "Bash(xxd:*)",
+      "Bash(cd:*)"
+    ]
+  }
+}

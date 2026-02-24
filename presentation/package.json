@@ -1,0 +1,17 @@
+{
+  "name": "vibe-coding-lecture-1",
+  "private": true,
+  "scripts": {
+    "dev": "slidev --open",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^51.0.0",
+    "@slidev/theme-default": "latest"
+  },
+  "devDependencies": {
+    "@iconify-json/carbon": "^1.2.8",
+    "@unocss/preset-icons": "^66.1.0"
+  }
+}
