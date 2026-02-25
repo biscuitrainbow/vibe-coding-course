@@ -1,6 +1,6 @@
 ---
 theme: default
-title: "The Three Waves of Building Software"
+title: "From Vibe Coding to Vibe Engineering"
 info: "Vibe Coding Course — Lecture 1"
 fonts:
   sans: Plus Jakarta Sans
@@ -11,9 +11,9 @@ drawings:
 mdc: true
 ---
 
-# The Three Waves of Building Software
+# From Vibe Coding to Vibe Engineering
 
-Vibe Coding: Building Software in the Age of AI
+Building Software in the Age of AI
 
 <div class="abs-br m-6 text-sm opacity-50">
 Lecture 1
@@ -191,7 +191,7 @@ layout: default
     <div class="text-4xl font-800 leading-tight" style="margin:0">Low-Code / No-Code</div>
   </div>
   <div class="flex-1 flex items-center justify-center px-10">
-    <img src="/placeholder.jpg" class="max-h-full max-w-full rounded-xl object-contain" alt="Low-code platforms" />
+    <img src="/no-code-app.png" class="max-h-full max-w-full rounded-xl object-contain" alt="Low-code platforms" />
   </div>
 </div>
 
@@ -335,7 +335,7 @@ layout: default
 </div>
 
 </div>
-<img src="/placeholder.jpg" class="w-2/5 rounded-xl object-cover opacity-80" alt="AI coding assistants" />
+<img src="/cursor.png" class="w-2/5 rounded-xl object-cover opacity-80" alt="AI coding assistants" />
 </div>
 
 </div>
@@ -429,7 +429,7 @@ layout: default
 </div>
 
 </div>
-<img src="/placeholder.jpg" class="w-2/5 rounded-xl object-cover opacity-80" alt="Vibe coding" />
+<img src="/vibe-coding.png" class="w-2/5 rounded-xl object-cover opacity-80" alt="Vibe coding" />
 </div>
 
 </div>
@@ -587,6 +587,7 @@ layout: default
 
 <div>
 <div class="font-bold text-base flex items-center gap-2"><span class="w-2.5 h-2.5 rounded-full bg-[#C8644A] inline-block flex-shrink-0"></span> "Accept All"</div>
+
 <div class="text-sm text-dark/60 ml-5">You stop reading diffs — every AI suggestion gets accepted without review.</div>
 </div>
 
@@ -617,7 +618,7 @@ layout: default
 
 </div>
 <div class="flex items-center justify-center h-full min-h-[300px]">
-<img src="/placeholder.jpg" class="rounded-xl object-cover w-full h-full" />
+<img src="/vibe-debugging.png" class="rounded-xl object-contain w-full h-full" />
 </div>
 </div>
 
@@ -643,7 +644,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-x-12 mt-6">
 <div class="flex items-center justify-center h-full min-h-[300px]">
-<img src="/placeholder.jpg" class="rounded-xl object-cover w-full h-full" />
+<img src="/vibe-coding2.png" class="rounded-xl object-contain w-full h-full" />
 </div>
 <div class="flex flex-col gap-5">
 
@@ -884,8 +885,8 @@ layout: default
     <p class="text-sm font-600 tracking-widest uppercase opacity-60 mb-2">Career Impact</p>
     <h1 class="text-4xl font-800 leading-tight">The Accelerated Career Path</h1>
   </div>
-  <div class="flex-1 flex items-center justify-center px-10">
-    <img src="/placeholder.jpg" class="max-h-full max-w-full rounded-xl object-contain" alt="Career path" />
+  <div class="flex-1 flex items-start justify-center px-10 pt-4">
+    <img src="/junior-vs-senior.png" class="max-h-full max-w-full rounded-xl object-contain" alt="Career path" />
   </div>
 </div>
 
@@ -1006,7 +1007,7 @@ layout: default
 </div>
 
 </div>
-<img src="/placeholder.jpg" class="w-2/5 rounded-xl object-cover opacity-80" alt="Skills that last" />
+<img src="/locical-thinking-skilss.png" class="w-2/5 rounded-xl object-cover opacity-80" alt="Skills that last" />
 </div>
 
 </div>
